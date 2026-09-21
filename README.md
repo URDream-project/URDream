@@ -5,10 +5,7 @@
 [![Watch the URDream demo](VIDEO_THUMBNAIL_URL)](VIDEO_URL)
 
 ## 🚀 Introduction
-
-**URDream** is an agentic framework for generating simulation-ready articulated 3D assets from a single image. It combines 3D generation with agent-driven parametric modeling to construct part geometry, joint structures, and physical properties. Through validation and feedback-guided repair, it produces simulator-compatible URDF assets for robot training and interactive applications.
-
-
+**URDream** is an agentic framework for generating simulation-ready articulated 3D assets from a single image. It adaptively selects generative, parametric, or hybrid modeling according to the geometry and functional requirements of each object and its parts. An agent Harness coordinates appearance and mechanism reviews, kinematic checks, and dynamics tests, using diagnostic feedback to guide targeted repairs before delivering simulator-compatible URDF assets. Validated modeling and repair experience is retained and reused to support decisions in subsequent tasks.
 
 ## 🌟 Features
 
