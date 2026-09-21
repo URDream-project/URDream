@@ -13,11 +13,12 @@
 - **Closed-Loop Validation and Repair**: Validates joint configurations, mass, center of mass, inertia, and collision geometry through **static checks, kinematic checks, and dynamics tests**, forming a **generation–validation–diagnosis–repair** loop to produce simulation-ready assets.
 - **Experience-Driven Self-Evolution**: Extracts **validated modeling and repair experience** for retrieval and reuse in subsequent tasks, supporting modeling decisions and issue resolution.
 
+
 ## 📋 TODO
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Publish the technical blog.
+- [ ] Publish the technical report.
+- [ ] Release the code.
 
 ## 📚 Citation
 ``` 
