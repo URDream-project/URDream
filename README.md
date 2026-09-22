@@ -4,12 +4,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # URDream: Agentic Single Image Generation of Simulation-Ready Articulated Assets
 
 ⭐ Star this repository to follow upcoming updates, including the technical report and code release. We welcome feedback, discussions, and contributions from the community!
 
-## 🎬 Demo Video
-[▶ Watch the demo](https://github.com/user-attachments/assets/f6085037-65c1-4679-b179-3d9732df3385)
+## 🎬 Demo Videos
+
+### Part 1
+
+https://github.com/user-attachments/assets/9a9d83ba-62b6-4544-8fd2-375003c0a12d
+
+### Part 2
+
+https://github.com/user-attachments/assets/a786a318-4b98-40e8-b6fc-b37932c7dcc3
+
+### Part 3
+
+https://github.com/user-attachments/assets/dcd5cca3-9e22-4e3b-b891-a6ec886bc9c6
 
 
 ## 🚀 Introduction
