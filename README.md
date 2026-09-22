@@ -17,8 +17,8 @@
 ## 📋 TODO
 
 - [x] Publish the technical blog.
-- [ ] Publish the technical report.
-- [ ] Release the code.
+- [ ] Publish the technical report before November 2026.
+- [ ] Release the code before November 2026.
 
 ## 📚 Citation
 ``` 
