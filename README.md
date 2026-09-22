@@ -3,7 +3,7 @@
 ⭐ Star this repository to follow upcoming updates, including the technical report and code release. We welcome feedback, discussions, and contributions from the community!
 
 ## 🎬 Demo Video
-
+[▶ Watch the full demo](链接)
 [📥 Download the full-resolution demo (~400 MB)](https://github.com/URDream-project/URDream/releases/download/demo-v1/01.mp4)
 
 ## 🚀 Introduction
