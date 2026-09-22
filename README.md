@@ -44,9 +44,9 @@ https://github.com/user-attachments/assets/a786a318-4b98-40e8-b6fc-b37932c7dcc3
 
 ## 📋 TODO
 
-- [x] Publish the technical blog.
-- [ ] Publish the technical report before November 2026.
-- [ ] Release the code before November 2026.
+- [x] Published the [technical blog](https://scalabot.noetixrobotics.com/blog/spatial-intelligence).
+- [ ] Publish the technical report on arXiv, presenting our method in detail (expected in October 2026).
+- [ ] Release the code (expected in October 2026)..
 
 ## 📚 Citation
 ``` 
