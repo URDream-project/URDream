@@ -15,7 +15,7 @@
 
 
 ## 📋 TODO
-
+⭐ Star this repository to follow upcoming updates, including the technical report and code release. We welcome feedback, discussions, and contributions from the community!
 - [x] Publish the technical blog.
 - [ ] Publish the technical report before November 2026.
 - [ ] Release the code before November 2026.
